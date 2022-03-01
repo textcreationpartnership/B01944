@@ -1,0 +1,240 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catalogue of late books: by that reverend divine Mr. Thomas Beverly, is now published gratis; for the satisfaction of many that desired it, who live remote from London; and with the lowest prices to each book, that they may know how to send for them. / They are printed for, and sold by William Marshall at the Bible in Newgate-Street, and John Marshall at the Bible in Grace-Church-Street near Cornhil.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01944</idno>
+            <idno type="STC">Wing C1341</idno>
+            <idno type="STC">ESTC R171073</idno>
+            <idno type="EEBO-CITATION">47012339</idno>
+            <idno type="OCLC">ocm 47012339</idno>
+            <idno type="VID">174303</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01944)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174303)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2683:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catalogue of late books: by that reverend divine Mr. Thomas Beverly, is now published gratis; for the satisfaction of many that desired it, who live remote from London; and with the lowest prices to each book, that they may know how to send for them. / They are printed for, and sold by William Marshall at the Bible in Newgate-Street, and John Marshall at the Bible in Grace-Church-Street near Cornhil.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for, and sold by William Marshall ..., and John Marshall.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1697?.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date from text.</note>
+                  <note>Reproduction of original in: University of Glasgow Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Beverley, Thomas.</term>
+               <term>Catalogs, Bookseller's --  London (England) --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="publishers_advertisement">
+            <pb n="1" facs="tcp:174303:1"/>
+            <head>A CATALOGUE OF LATE BOOKS: By That Reverend Divine M<hi rend="sup">R.</hi> 
+               <hi>Thomas Beverly,</hi> Is now Publiſhed <hi>Gratis;</hi> for the Satisfaction of Many that Deſired it, who Live Remote from <hi>London;</hi> and with the Loweſt Prices to each Book, that they may know how to Send for them: They are Printed for, and Sold by <hi>William Marſhall</hi> at the <hi>Bible</hi> in <hi>Newgate-Street,</hi> and <hi>John Marſhall</hi> at the <hi>Bible</hi> in <hi>Grace-Church-Street</hi> near <hi>Cornhil.</hi>
+            </head>
+            <list>
+               <item>1. A Solemn Perſwaſion to Moſt Earneſt Prayer, for the Revival of the <hi>Work of God,</hi> Bringing Forth the <hi>Kingdom of Chriſt,</hi> whenever it appears Declining under his Indignation: Whether
+<list>
+                     <item>1. <hi>In our own Souls:</hi>
+                     </item>
+                     <item>2. <hi>In the Nation to which we belong:</hi>
+                     </item>
+                     <item>3. <hi>In the Churches of Chriſt throughout:</hi>
+                     </item>
+                  </list> Upon occaſion of the Late Stroke of Divine Diſpleaſure in the Death of the QUEEN of Bleſſed Remembrance: <hi>Amos</hi> 7.2, 5. <hi>Price</hi> 6 <hi>d.</hi>
+               </item>
+               <item>2. The Loſs of the Soul; The Irreparable Loſs Opened and Demonſtrated,
+<list>
+                     <item>1. <hi>By the Excellency of the Soul:</hi>
+                     </item>
+                     <item>2. <hi>The utter Incompetency of the World to anſwer it:</hi>
+                     </item>
+                     <item>3. <hi>The Miſery of a Soul Loſt:</hi>
+                     </item>
+                     <item>4. <hi>The Eternal Sting of that Queſtion, VVhat ſhall a Man give in Exchange for a Loſt Soul?</hi>
+                     </item>
+                  </list> In a Sermon on Mat. 16.26. <hi>VVhat ſhall it Profit a Man, if be gain the whole world and loſe his own Soul? or, what ſhall a Man give in Exchange for his Soul?</hi> Price 6 <hi>d.</hi>
+               </item>
+               <item>3. <hi>Jehovah-Jireh:</hi> Or, In the Mount will the Lord be Seen: Opened and Applyed, in a Practical Diſcourſe, on a Day of Seeking God in Prayer: Month 10th. Day 19. 1694. <hi>Price</hi> 6 <hi>d.</hi>
+               </item>
+               <item>4. The Bleſſing of <hi>Moſes</hi> on the Tribe of <hi>Aſher;</hi> Opened and Applyed in the Myſtical and Spiritual Senſe, to every Saint and Servant of Chriſt: In a Sermon on <hi>Deut.</hi> 33.25. <hi>Thy Shoes ſhall be Iron and Braſs; and as thy day is, ſo ſhall thy ſtrength be:</hi> Price 6 <hi>d.</hi>
+               </item>
+               <item>5. The Great Goſpel-Grace of Faith: Its Nature Opened, Illuſtrated and Argued from Scripture Principles, as ſo often Affirmed in the word of God, to be Faith by which we are Juſtified: being the ſubſtance of Several Diſcources on <hi>Iohn</hi> 17.7.8. Price 6 <hi>d.</hi>
+               </item>
+               <item>6. The Faith by which we are Juſtified in Scripture Senſe, according to Scripture, Opened, Explained and Applyed on <hi>Rom.</hi> 5.1. In Six Sermons. <hi>Price</hi> 1 <hi>s.</hi>
+               </item>
+               <pb n="2" facs="tcp:174303:2"/>
+               <item> 7. The True State of Goſpel-Truth, Eſtabliſhed upon the Free Election of God in Chriſt: The Agreement, and yet Difference; between Law and Goſpel; ſo that the Goſpel cannot be ſtyled Law: The Inconditionateneſs of the Goſpel Salvation, the Procedure of the Day of Judgment. <hi>Price</hi> 6 d.</item>
+               <item>8. A Compendious Aſſertion and Vindication of the Eternal God-Head of Our Lord Jeſus Chriſt, and of the Bleſſed Spirit; in Anſwer to a Paper Caſt into Both Houſes of Parliament in Denial thereof. <hi>Price</hi> 6 d.</item>
+               <item>9. An Expoſition of the Divine Standard of Prayer, Styled <hi>The Lords Prayer;</hi> Particularly Treating of the Preface, Of every Petition of it, And of the Concluſion; as of the Prayer of the Kingdom of <hi>Meſſiah,</hi> the Lord Jeſus Chriſt; according to that of the Evangeliſts <hi>Mat.</hi> 6. 9. <hi>Luke</hi> 11.1. Shewing that according to its True Elevation, it is the Prayer of the Kingdom, <hi>viz.</hi> Of the <hi>Thouſand Years</hi> Kingdom of Chriſt in the New Heaven, or <hi>Jeruſalem</hi> Above; and in the New Earth or <hi>Jeruſalem</hi> Below: <hi>Price</hi> 1 <hi>s.</hi>
+               </item>
+               <item>10. A Brief View of the State of Mankind in the Firſt <hi>Adam,</hi> and in the Second <hi>Adam;</hi> being the ſum of many Large Diſcourſes upon that Great Context of the Redemption and Mediation of Jeſus Chriſt. <hi>Price</hi> 4 <hi>d.</hi>
+               </item>
+               <item>11. The Model of a Diſcourſe of the Great Point, or Doctrine of Holineſs to the Lord. From 1 <hi>Pet.</hi> 1.15, 16. <hi>Price</hi> 2 <hi>d.</hi>
+               </item>
+               <item>12. A Conciliatory Diſcourſe upon Dr. <hi>Criſp</hi>'s Sermons; on the obſervation of Mr: <hi>William</hi>'s Diſatisfactions in them: in which the Unſearcheable Riches of Chriſt, and the Covenant of Grace paſſing Knowledge, is yet Aſpired to be made known: Humbly Preſented to the Preachers of the Marchants Lecture at <hi>Pinners-Hall;</hi> to the Suſtainers of it, and to the Con<g ref="char:EOLhyphen"/>gregation uſually Aſſembled there. <hi>Price</hi> 6 <hi>d.</hi>
+               </item>
+               <item>13. A Conciliatory Judgment concerning Dr. <hi>Criſp'</hi> Sermons and Mr. <hi>Baxters</hi> Diſatisfactions in them. <hi>Price</hi> 2 <hi>d.</hi>
+               </item>
+               <item>14. A Diſcourſe being the ſubſtance of ſeveral Sermons on the Sacrament of the Lords Supper; wherein the True Spiritual Nature thereof is Opened and Unfolded: Shewing alſo in what Sence it is that True Believers do Eat and Drink the Body and Blood of Chriſt: with Exhortations to Come to that Ordinance; and Several Directions in order to a Conſtant Habitual and Actual Preparation for it: 1 <hi>Cor.</hi> 11.23. <hi>This is my Body. Mat.</hi> 26.26. <hi>Mark</hi> 14.22. <hi>Luk.</hi> 22.19. Price 6 <hi>d.</hi>
+               </item>
+               <item>15. Evangelical Repentance unto Salvation, not to be Repented of; upon 2 <hi>Cor:</hi> 7.10. and a moſt Seaſonable ſhort Conſideration on that Great Context, <hi>Heb.</hi> 12.26. <hi>Yet once more I ſhake not only Earth,</hi> &amp;c. Upon the Solemn Occaſion of the late Dreadful Earth-quake in <hi>Jamaica,</hi> and the latter Monitory Motion of the Earth in <hi>London,</hi> and other parts of the Na<g ref="char:EOLhyphen"/>tion, beyond the Sea, whereunto is Adjoyned a Diſcourſe of Death-Bed Repentance; on <hi>Luke</hi> 22.39. <hi>Price Bound</hi> 1 <hi>s.</hi> 6 <hi>d.</hi>
+               </item>
+               <item>16. A Diſcourſe of the Greatneſs of the Soul, <hi>Price Bound</hi> 1 <hi>s.</hi> 6 <hi>d.</hi>
+               </item>
+               <item>17. The Command of God to his People to come out of <hi>Babilon, Rev.</hi> 18. <hi>Price</hi> 6 <hi>d.</hi>
+               </item>
+               <item>18. The <hi>Kingdom of Jeſus Chriſt</hi> Entering its Succeſſion at 1697. according to a Callendar of Time. <hi>Price</hi> 1 <hi>s.</hi>
+               </item>
+               <item>19. The Pattern of the Divine Temple, Sanctuary and City of the New <hi>Jeruſalem:</hi> Mea<g ref="char:EOLhyphen"/>ſured according to <hi>Ezekiels</hi> Laſt and Greateſt Viſion, <hi>Chap:</hi> 40. to the end; which Temple ſhall be ſeen opened in Heaven in the days of the Seventh Trumpet, that there may be a daily Conformity to it. <hi>Price</hi> 6 <hi>d.</hi>
+               </item>
+               <item>20. The Firſt part of the Line of Time, Preſenting its ſeveral Joynts, in a clear and bright
+<pb n="3" facs="tcp:174303:2"/>view: from the Firſt to the Laſt Sabbatiſm; whoſe mutual Aſpects upon one another, and upon the whole Line; are diligently obſerved, as a moſt conſiderable proof of ſuch a Line; and from thence a very Momentous Confirmation of the Chriſtian Sabbath, or Lords Day, is given: Together with Inferences Tending to Practice, and Particulars moving to a diſcern<g ref="char:EOLhyphen"/>ing of the Signs of the Times, and what ought now to be done in regard of the nearneſs of the Bleſſed Sabbatiſm: A judgment is alſo drawn from the Situation of the Joynts of this Laſt part of Time: Containing Twenty Eight Sheets of Large Paper: <hi>Price</hi> 2 <hi>s.</hi> 6 <hi>d.</hi>
+               </item>
+               <item>21. The Scripture Line of Time, from the Firſt Sabbath, to the Great Sabbatiſm of the <hi>Kingdom of Chriſt,</hi> with the Viſion of the Wheels, Explained; and the Viſion of the Temple: with a Treatiſe on the whole Line of Time. <hi>Price</hi> 6 <hi>d.</hi>
+               </item>
+               <item>22. A Demonſtrative Scripture Proof from Mahometan Times; the <hi>Kingdom of Chriſt</hi> muſt needs be in its Succeſſion, 1697. <hi>Price</hi> 6 <hi>d.</hi>
+               </item>
+               <item>23. The Prophetical Hiſtory of the Reformation, or the Reformation to be Reformed; in that Great Reformation that is to be Speedily, according to the Divine Table, or Viſion of it, <hi>Rev.</hi> 10. Compared with other Viſions; eſpecially of the Churches, for the further Aſſu<g ref="char:EOLhyphen"/>ring that Grand Joynt of the Line of Time, <hi>viz.</hi> 1260 Years, allowed to the Beaſts King<g ref="char:EOLhyphen"/>dom, or to the Roman Apoſtacy (which becauſe it is to End 1697. muſt therefore have begun 437) to which is adjoyned the Apocalyptical Viſion of the Witneſſes, <hi>Heb.</hi> 9.10. Carnal Or<g ref="char:EOLhyphen"/>dinances impoſed until the Time of Reformation: <hi>Price</hi> but 1 <hi>s.</hi> tho before Sold for more.</item>
+               <item>24. A Scheam of Prophecies now to be Fulfilled, <hi>Price</hi> 1 <hi>d.</hi>
+               </item>
+               <item>25. A Freſh Memorial of the <hi>Kingdom of Chriſt,</hi> Demonſtrating from the <hi>Solemn Oath of Chriſt,</hi> Rev: 10. by Expreſs Letter of Scripture, and moſt Hiſtorical matter of Fact; it muſt needs Enter its Succeſſion 1697. and begin ſo Great and Happy an Era of Time, that in Regard to it, it might well be Sworn, there ſhall be time (<hi>viz.</hi> ſuch as had been) no more, or no further for Ever: wherein there is ſeveral Objections anſwered: Being an Alarm both to wiſe and fooliſh Virgins, <hi>Price</hi> 6 <hi>d.</hi>
+               </item>
+               <item>26. A Table of Sabbatical Time: with a Scale of Years. <hi>Price</hi> 2 <hi>d.</hi>
+               </item>
+               <item>27. A Diſcourſe upon the Powers of the World to Come, or the Miraculous Powers of the Goſpel and Kingdom of our Lord Jeſus Chriſt; and their certain Return at the Kingdom of Chriſt in its Succeſſion: To which is Adjoyned, the Great Charter for the Interpretation of the Prophecy of the Scriptures, and more praticularly of the Prophetick Number of Time; Evincing the Kingdom of Chriſt in Succeſſion at 1697. and conſequently Miracles ſhall then Return. <hi>Price</hi> 2 <hi>s.</hi>
+               </item>
+               <item>28. Thoſe that are minded to have the Diſcourſe upon the Powers of the World to Come; or the Miraculous Powers of the Goſpel and Kingdom of our Lord Jeſus Chriſt, and their certain Return at the Kingdom of Chriſt in its Succeſſion; without the Great Charter, may have it for 1 <hi>s. Price.</hi>
+               </item>
+               <item>29. A Model of Goſpel Sanctification in ſeveral generals: drawn eſpecially according to the <hi>Romans, ch.</hi> 7. <hi>ch.</hi> 8. following that Great Diſcourſe, <hi>Rom.</hi> 5.12. by way of compari<g ref="char:EOLhyphen"/>ſon between the Firſt and Second <hi>Adam:</hi> To which is Adjoyned a Chain of Principles, con<g ref="char:EOLhyphen"/>cerning The <hi>Thouſand Years Kingdom of Chriſt;</hi> Humbly offered by way of Appeal to all Chri<g ref="char:EOLhyphen"/>ſtians, eſpeacially to the Paſtors and Doctors of the Churches: that if there be Errors in any of the Principles; or weakneſs in the Concatination, it may be Publickly Teſtified and Convinced; for all is founded upon expreſs Scripture, and Reaſoned from it, according to <hi>Acts</hi> 17.3. <hi>Price</hi> 3 <hi>d.</hi>
+               </item>
+               <item>30. The Catechiſm of the Kingdom of our Lord Jeſus Chriſt in the <hi>Thouſand Years:</hi> Shewing
+<pb n="4" facs="tcp:174303:3"/>by Scripture,
+<list>
+                     <item>1. That the Great Articles of the Redemption,</item>
+                     <item>2. The Reſurrection,</item>
+                     <item>3. The Myſtery of the Saints not Dying but Changed,</item>
+                     <item>4. The Judgment,</item>
+                     <item>5. The Delivery up of the Kingdom to God All in All; cannot be Explained at full Dimenſions without it:</item>
+                  </list> The Second Edition, Reviſed and Corrected, with conſiderable Additions. <hi>Price</hi> 6 <hi>d.</hi>
+               </item>
+               <item>31. A paraphraſe with Annotations on the Revelations, by Another Hand, much agreeing with Mr. <hi>Beverly: Price Bound,</hi> 5 <hi>s.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>There are ſome other Pieces of Mr.</hi> Beverly<hi>'s that are out of Print.</hi>
+            </p>
+            <div type="part">
+               <head>Advertiſement.</head>
+               <list>
+                  <head>Theſe Books are likewiſe Sold by <hi>William Marſhal</hi> at the <hi>Bible</hi> in <hi>Newgate-Street,</hi> and <hi>John Marſhal</hi> at the <hi>Bible</hi> in <hi>Grace-Church-Street</hi> near <hi>Cornhill.</hi>
+                  </head>
+                  <item>1. Mr. <hi>Carryl</hi>'s Expoſition on the Whole Book of <hi>Job,</hi> in Two Large Volumns in Folio; both Volumns in Quires 30 <hi>s.</hi> and Bound 40 <hi>s.</hi>
+                  </item>
+                  <item>2. Mr. <hi>Pools</hi>'s <hi>Synopſis Criticorum,</hi> Latin; In Two Volumns on the <hi>New Teſtament,</hi> with the Index; in Quiers 20 <hi>s.</hi> Bound 30 <hi>s.</hi>
+                  </item>
+                  <item>3. Mr. <hi>Bunyan</hi>'s Works, Containing Twenty Books in Folio; Ten of them formerly Printed, very Scarce; and Ten Left by the Author, Fitted for the Preſs; in all Twenty Books, with the Map of Salvation: The Impreſſion being almoſt gone off, there will be a few more Sold for 14 <hi>Shillings</hi> Bound.</item>
+                  <item>4. <hi>Meliticium Chyrurgiae:</hi> Or the Marrow of Chyrurgery, with the Anointing of Hu<g ref="char:EOLhyphen"/>mane Bodies, according to the Modern Anointings: Illuſtrated with many Anatomical Obſervations: Inſtitutions of Phyſick with <hi>Hypocrates</hi> Aphoriſms Largely Commented upon: The Marrow of Phyſick, Showing the Cauſes, Signs and Cures of moſt Diſeaſes Incident to Humane Bodies: Choice Experienced Receipts for the Cure of Several Diſtempers: The Fourth Edition, Enlarged with many Additions; Illuſtrated in its Several Parts with Twelve Copper Cuts. By <hi>James Cook</hi> of <hi>Warwick,</hi> Practitioner in Phyſick and Chyrurgery: Licenſed by the Colledge of Phyſicians. <hi>Loweſt Price Bound</hi> 6 <hi>s.</hi>
+                  </item>
+                  <item>5. Mr. <hi>James Cook</hi>'s Obſervation of Engliſh Bodies, with Directions about the Uſe of the Bath Waters: <hi>Price Bound</hi> 2 <hi>s.</hi> 6.</item>
+                  <item>6. <hi>Tachenius</hi> his <hi>Hipocrates Chynicus,</hi> Diſcovering the Ancient Foundation of the late Viperine Salt: To which is annexed his <hi>Clavis</hi> to the Antient <hi>Hippocratical</hi> Phyſick or Medicine, made by Manual Experience in the very Fountain of Nature; whereby thorow Fire and Water, in a Method unheard of before, the occult Myſteries of Nature and Art are unlocked, and clearly explained, by a compendious way of Operation. <hi>Price Bound</hi> 2 <hi>s.</hi> 6 <hi>d.</hi>
+                  </item>
+                  <item>7. <hi>Multum in Parvo:</hi> Or, A Compendious Spelling Book, to be uſed ſo ſoon as Children know their Letters; by the help of which in a very ſhort time, Children may be able to divide and read the hardeſt Words. Set forth for the benefit o<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> little Children; and the Rules may help thoſe that be of better capacit<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es. <hi>Price</hi> 2 <hi>d.</hi>
+                  </item>
+                  <item>8. A Solemn Scriptural Call: Or, An Epiſtle to the JEWS, <hi>Price</hi> 1 <hi>d.</hi>
+                  </item>
+                  <item>9. A New Methodized Concordance, for the Uſe of Families. <hi>Price</hi> 6 <hi>d.</hi>
+                  </item>
+               </list>
+               <p>You may likewiſe be Supplied at the place above mentioned with moſt of Dr. <hi>Owen's</hi> Works: and alſo the Effigies of Several Divines, as Mr. <hi>Carryl,</hi> Mr. <hi>Pool,</hi> Mr. <hi>Baxter,</hi> Mr. <hi>Bunyan,</hi> Dr. <hi>Owen,</hi> Dr. <hi>Criſp,</hi> Dr. <hi>Manton,</hi> Mr. <hi>Samuel Clark.</hi> Price 6 <hi>d</hi> each.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
